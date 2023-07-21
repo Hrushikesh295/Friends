@@ -19,7 +19,7 @@
    <button> brush their teeth</button>
    <button> bath if they wanted or no bath </button>
    <button> sleep again</button>
-   <button> play pubg</button>
+   <button> play bgmi</button>
    <table>
        <tr>
            <th>name</th>
